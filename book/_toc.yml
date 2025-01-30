@@ -4,9 +4,9 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
-    - file: some_content/overview.md
+    - file: RDM_intro_PhD.md
       sections:
-      - file: RDM_intro_PhD.md
+      - file: PhD_requirement_support.md
     - file: exercises
       sections:
       - file: exercises/001.md
