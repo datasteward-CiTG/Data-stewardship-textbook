@@ -6,7 +6,6 @@ parts:
     chapters:
     - file: some_content/overview.md
       sections:
-      - file: some_content/text_and_code.ipynb
       - file: RDM_intro_PhD.md
     - file: exercises
       sections:
