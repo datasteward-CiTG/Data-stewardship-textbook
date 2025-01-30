@@ -1,6 +1,4 @@
 (intro)=
-# Welcome to the Template Book
+# Welcome to the Book on Data Stewardship at CiTG 
 
-_This is the first page the student will see when opening the url._
-
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+The CiTG Data Stewardship textbook covers best practices in research data management throughout the lifecycle, including storage, metadata, ethics, legal considerations, and open science, etc. It is an essential resource for researchers, guiding them in responsible data management aligned with FAIR principles.
