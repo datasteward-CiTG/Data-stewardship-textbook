@@ -4,7 +4,7 @@ root: intro.md
 parts:
   - caption: PhD Candidates
     chapters:
-    - file: PhD_index.md
+    - file: phd_index.md
       sections:
       - file: RDM_intro_PhD.md
       - file: support_and_requirment.md
@@ -12,7 +12,7 @@ parts:
       - file: Data_management_plan.md
   - caption: Faculty Staff
     chapters:
-    - file: Staff_index.md
+    - file: staff_index.md
       sections:
       - file: Data_paragraph.md
       - file: Funder_DMP.md
@@ -20,7 +20,7 @@ parts:
       - file: Community_funding_opportunity.md
   - caption: MSc Students
     chapters:
-    - file: MSc_index.md
+    - file: msc_index.md
       sections:
       - file: HREC_application.md
       - file: Data_management_plan.md
