@@ -46,7 +46,9 @@ parts:
     - caption: News
       chapters:
       - file: news/news_index.md
-
+      
+    - caption: Exercises
+      chapters:
       - file: exercises
         sections:
         - file: exercises/001.md
