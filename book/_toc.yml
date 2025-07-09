@@ -10,8 +10,7 @@ parts:
           - file: phd/PhD_agreement.md 
           - file: phd/data_management_plan_phd.md
 
-
-   - chapters:
+  - chapters:
       - file: staff/staff_index.md
         sections:
           - file: staff/data_paragraph.md
@@ -19,16 +18,14 @@ parts:
           - file: staff/PhD_supervisor_guideline.md
           - file: staff/community_funding_opportunity.md
 
-
-   - chapters:
+  - chapters:
       - file: msc/msc_index.md
         sections:
           - file: msc/HREC_application.md
           - file: msc/data_management_plan_msc.md
           - file: msc/reused_3rdparty_data.md
 
-
-   - chapters:
+  - chapters:
       - file: general/RDM_index.md
         sections:
           - file: general/data_storage.md
@@ -46,8 +43,7 @@ parts:
           - file: general/RDM_tools.md
           - file: general/computing_facilities.md
 
-
-   - chapters:
+  - chapters:
       - file: news/news_index.md
 
   - caption: Exercises
@@ -59,4 +55,3 @@ parts:
       - file: exercises/005.md
       - file: exercises/006.md
       - file: exercises/summary.md
- 
