@@ -1,4 +1,4 @@
-# Reseach Data Management introduction for PhD candidates
+# Introduction
 Research data management is an important part of your PhD research. It helps keeps your data safe, makes your work more reproducible, and ensures you comply with university and funder [policies](https://www.tudelft.nl/en/library/research-data-management/r/policies).
  
 ## Requirements for PhD candidates:
