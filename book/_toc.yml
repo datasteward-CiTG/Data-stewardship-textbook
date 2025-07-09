@@ -9,7 +9,7 @@ parts:
           - file: RDM_intro_PhD.md
           - file: support_and_requirment.md
           - file: PhD_agreement.md 
-          - file: Data_management_plan.md
+          - file: Data_management_plan_phd.md
 
   - caption: Faculty Staff
     chapters:
@@ -25,7 +25,7 @@ parts:
       - file: msc/msc_index.md
         sections:
           - file: HREC_application.md
-          - file: Data_management_plan.md
+          - file: Data_management_plan_msc.md
           - file: reused_3rdparty_data.md
 
   - caption: Research Data Management Topics for Everyone
