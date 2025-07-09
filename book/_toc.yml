@@ -4,58 +4,62 @@ root: intro.md
 parts:
   - caption: PhD Candidates
     chapters:
-    - file: phd/phd_index.md
-      sections:
-      - file: RDM_intro_PhD.md
-      - file: support_and_requirment.md
-      - file: PhD_agreement.md 
-      - file: Data_management_plan.md
+      - file: phd/phd_index.md
+        sections:
+          - file: RDM_intro_PhD.md
+          - file: support_and_requirment.md
+          - file: PhD_agreement.md 
+          - file: Data_management_plan.md
+
   - caption: Faculty Staff
     chapters:
-    - file: staff/staff_index.md
-      sections:
-      - file: Data_paragraph.md
-      - file: Funder_DMP.md
-      - file: PhD_supervisor_guideline.md
-      - file: Community_funding_opportunity.md
+      - file: staff/staff_index.md
+        sections:
+          - file: Data_paragraph.md
+          - file: Funder_DMP.md
+          - file: PhD_supervisor_guideline.md
+          - file: Community_funding_opportunity.md
+
   - caption: MSc Students
     chapters:
-    - file: msc/msc_index.md
-      sections:
-      - file: HREC_application.md
-      - file: Data_management_plan.md
-      - file: reused_3rdparty_data.md
-  - caption: Reseach Data Management Topics for everyone
-    chapters:
-    - file: general/RDM_index.md
-      sections:
-      - file: Data_storage.md
-      - file: File_organization.md
-      - file: Documentation.md
-      - file: Publication.md
-      - file: Copyright_licensing.md
-      - file: Data_type_specific_RDM.md
+      - file: msc/msc_index.md
         sections:
-        - file: Numerical_simulation_data.md
-        - file: Experimental_data.md
-        - file: Geospecial_data.md
-        - file: Pysical_samples.md
-        - file: Reused_data.md
-      - file: RDM_tools.md
-      - file: Computing_facilities.md
-    - caption: News
-      chapters:
+          - file: HREC_application.md
+          - file: Data_management_plan.md
+          - file: reused_3rdparty_data.md
+
+  - caption: Research Data Management Topics for Everyone
+    chapters:
+      - file: general/RDM_index.md
+        sections:
+          - file: Data_storage.md
+          - file: File_organization.md
+          - file: Documentation.md
+          - file: Publication.md
+          - file: Copyright_licensing.md
+          - file: Data_type_specific_RDM.md
+            sections:
+              - file: Numerical_simulation_data.md
+              - file: Experimental_data.md
+              - file: Geospecial_data.md
+              - file: Pysical_samples.md
+              - file: Reused_data.md
+          - file: RDM_tools.md
+          - file: Computing_facilities.md
+
+  - caption: News
+    chapters:
       - file: news/news_index.md
-      
-    - caption: Exercises
-      sections:
-        - file: exercises/001.md
-        - file: exercises/002.md
-        - file: exercises/003.md
-        - file: exercises/004.md
-        - file: exercises/005.md
-        - file: exercises/006.md
-        - file: exercises/summary
-        - file: references.md
-        - file: changelog.md
-        - file: credits.md
+
+  - caption: Exercises
+    chapters:
+      - file: exercises/001.md
+      - file: exercises/002.md
+      - file: exercises/003.md
+      - file: exercises/004.md
+      - file: exercises/005.md
+      - file: exercises/006.md
+      - file: exercises/summary.md
+      - file: references.md
+      - file: changelog.md
+      - file: credits.md
