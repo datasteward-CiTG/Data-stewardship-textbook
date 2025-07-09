@@ -9,43 +9,43 @@ parts:
           - file: phd/RDM_intro_PhD.md
           - file: phd/support_and_requirement.md
           - file: phd/PhD_agreement.md 
-          - file: phd/Data_management_plan_phd.md
+          - file: phd/data_management_plan_phd.md
 
   - caption: Faculty Staff
     chapters:
       - file: staff/staff_index.md
         sections:
-          - file: staff/Data_paragraph.md
-          - file: staff/Funder_DMP.md
+          - file: staff/data_paragraph.md
+          - file: staff/funder_DMP.md
           - file: staff/PhD_supervisor_guideline.md
-          - file: staff/Community_funding_opportunity.md
+          - file: staff/community_funding_opportunity.md
 
   - caption: MSc Students
     chapters:
       - file: msc/msc_index.md
         sections:
           - file: msc/HREC_application.md
-          - file: msc/Data_management_plan_msc.md
+          - file: msc/data_management_plan_msc.md
           - file: msc/reused_3rdparty_data.md
 
   - caption: Research Data Management Topics for Everyone
     chapters:
       - file: general/RDM_index.md
         sections:
-          - file: general/Data_storage.md
-          - file: general/File_organization.md
-          - file: general/Documentation.md
-          - file: general/Publication.md
-          - file: general/Copyright_licensing.md
-          - file: general/Data_type_specific_RDM.md
+          - file: general/data_storage.md
+          - file: general/file_organization.md
+          - file: general/documentation.md
+          - file: general/publication.md
+          - file: general/copyright_licensing.md
+          - file: general/data_type_specific_RDM.md
             sections:
-              - file: general/data_type/Numerical_simulation_data.md
-              - file: general/data_type/Experimental_data.md
-              - file: general/data_type/Geospecial_data.md
-              - file: general/data_type/Pysical_samples.md
-              - file: general/data_type/Reused_data.md
+              - file: general/data_type/numerical_simulation_data.md
+              - file: general/data_type/experimental_data.md
+              - file: general/data_type/geospecial_data.md
+              - file: general/data_type/pysical_samples.md
+              - file: general/data_type/reused_data.md
           - file: general/RDM_tools.md
-          - file: general/Computing_facilities.md
+          - file: general/computing_facilities.md
 
   - caption: News
     chapters:
