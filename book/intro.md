@@ -8,3 +8,4 @@ Please choose the section that best fits your role and needs:
 - [Faculty Staff]()
 - [MSc Students]()
 - [Research Data Management Topics for everyone]()
+- [News]()
