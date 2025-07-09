@@ -44,6 +44,8 @@ parts:
       - file: RDM_tools.md
       - file: Computing_facilities.md
     - caption: News
+      chapters:
+      - file: news/news_index.md
 
       - file: exercises
         sections:
