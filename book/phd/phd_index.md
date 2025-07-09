@@ -1,3 +1,3 @@
-# RDM for PhD candidates
+# Research data management for PhD candidates
 
 Content coming soon...
