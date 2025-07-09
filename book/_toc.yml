@@ -60,6 +60,4 @@ parts:
       - file: exercises/005.md
       - file: exercises/006.md
       - file: exercises/summary.md
-      - file: references.md
-      - file: changelog.md
-      - file: credits.md
+ 
