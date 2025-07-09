@@ -5,8 +5,8 @@ The textbook for data stewardship at CiTG covers best practices in research data
 
 Please choose the section that best fits your role and needs:
 
-- [PhD Cadidates](phd/phd_index)
-- [Faculty Staff](staff/staff_index)
-- [MSc Students](msc/msc_index)
-- [Research Data Management Topics for everyone](general/RDM_index)
-- [News](news/news_index)
+- [PhD Cadidates](phd/phd_index.md)
+- [Faculty Staff](staff/staff_index.md)
+- [MSc Students](msc/msc_index.md)
+- [Research Data Management Topics for everyone](general/RDM_index.md)
+- [News](news/news_index.md)
