@@ -2,20 +2,58 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Contents
+  - caption: PhD Candidates
     chapters:
-    - file: RDM_intro_PhD.md
+    - file: PhD_index.md
       sections:
-      - file: PhD_requirement_support.md
-    - file: exercises
+      - file: RDM_intro_PhD.md
+      - file: support_and_requirment.md
+      - file: PhD_agreement.md 
+      - file: Data_management_plan.md
+  - caption: Faculty Staff
+    chapters:
+    - file: Staff_index.md
       sections:
-      - file: exercises/001.md
-      - file: exercises/002.md
-      - file: exercises/003.md
-      - file: exercises/004.md
-      - file: exercises/005.md
-      - file: exercises/006.md
-      - file: exercises/summary
-    - file: references.md
-    - file: changelog.md
-    - file: credits.md
+      - file: Data_paragraph.md
+      - file: Funder_DMP.md
+      - file: PhD_supervisor_guideline.md
+      - file: Community_funding_opportunity.md
+  - caption: MSc Student
+    chapters:
+    - file: MSc_index.md
+      sections:
+      - file: HREC_application.md
+      - file: Data_management_plan.md
+      - file: reused_3rdparty_data.md
+  - caption: Reseach Data Management for everyone
+    chapters:
+    - file: RDM_index.md
+      sections:
+      - file: Data_storage.md
+      - file: File_organization.md
+      - file: Documentation.md
+      - file: Publication.md
+      - file: Copyright_licensing.md
+      - file: Data_type_specific_RDM.md
+        sections:
+        - file: Numerical_simulation_data.md
+        - file: Experimental_data.md
+        - file: Geospecial_data.md
+        - file: Pysical_samples.md
+        - file: Reused_data.md
+      - file: RDM_tools.md
+      - file: Computing_facilities.md
+    - caption: News
+
+      - file: exercises
+        sections:
+        - file: exercises/001.md
+        - file: exercises/002.md
+        - file: exercises/003.md
+        - file: exercises/004.md
+        - file: exercises/005.md
+        - file: exercises/006.md
+        - file: exercises/summary
+     - file: references.md
+     - file: changelog.md
+     - file: credits.md
