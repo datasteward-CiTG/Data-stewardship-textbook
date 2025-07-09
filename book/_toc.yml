@@ -19,7 +19,7 @@ parts:
           - file: staff/PhD_supervisor_guideline.md
           - file: staff/community_funding_opportunity.md
 
-<!--  - caption: MSc Students
+
     chapters:
       - file: msc/msc_index.md
         sections:
@@ -27,7 +27,7 @@ parts:
           - file: msc/data_management_plan_msc.md
           - file: msc/reused_3rdparty_data.md
 
-  - caption: Research Data Management Topics for Everyone
+
     chapters:
       - file: general/RDM_index.md
         sections:
@@ -46,7 +46,7 @@ parts:
           - file: general/RDM_tools.md
           - file: general/computing_facilities.md
 
-  - caption: News
+
     chapters:
       - file: news/news_index.md
 
