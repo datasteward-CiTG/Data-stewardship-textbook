@@ -2,7 +2,6 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: PhD Candidates
     chapters:
       - file: phd/phd_index.md
         sections:
@@ -11,7 +10,7 @@ parts:
           - file: phd/PhD_agreement.md 
           - file: phd/data_management_plan_phd.md
 
-  - caption: Faculty Staff
+
     chapters:
       - file: staff/staff_index.md
         sections:
@@ -20,7 +19,7 @@ parts:
           - file: staff/PhD_supervisor_guideline.md
           - file: staff/community_funding_opportunity.md
 
-  - caption: MSc Students
+<!--  - caption: MSc Students
     chapters:
       - file: msc/msc_index.md
         sections:
