@@ -7,7 +7,7 @@ parts:
       - file: phd/phd_index.md
         sections:
           - file: phd/RDM_intro_PhD.md
-          - file: phd/support_and_requirment.md
+          - file: phd/support_and_requirement.md
           - file: phd/PhD_agreement.md 
           - file: phd/Data_management_plan_phd.md
 
