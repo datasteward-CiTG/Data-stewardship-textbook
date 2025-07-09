@@ -1,3 +1,3 @@
-# phd_index
+# Research Data Management for PhD candidates
 
 Content coming soon...
